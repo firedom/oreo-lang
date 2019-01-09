@@ -53,6 +53,7 @@ And this is encode table for OREO code.
 
 # How to use
 oreo.py
+
 If you want translate words, input:  
 python3 oreo.py nyanya~
 The Terminal will return:  
