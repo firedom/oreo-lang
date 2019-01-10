@@ -78,7 +78,7 @@ Termianl will return this:
 app.oreoArr =  ['O', 'R', '-', 'R', 'O', 'O', 'O', '-', 'R', 'O', 'R', 'O', '-', 'R', 'O', 'O', '-']
 
 
-next, copy result and paste it to Console of Explorer.
+next, copy result and paste it to Console of Browser.
 
 finally click Generate and this site will return a picture like this:
 
