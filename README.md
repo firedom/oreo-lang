@@ -64,6 +64,36 @@ python3 oreo.py "Author by firedom"
 The Terminal will return:  
 <p>奥利与奥奥利与利与奥奥奥奥与利利利与奥利奥与  利奥奥奥与利奥利利与  奥奥利奥与奥奥与奥利奥与奥与利奥奥与利利利与利利与</p>  
 
+jsoreo.py
+
+This python file is designed for OREO cookie pages[3], open this site and run jsoreo.py in Terminal to get morsecode format list.
+
+e.g.:
+Input this command in Terminal:
+
+$ python3 jsoreo.py abcd
+
+Termianl will return this:
+
+app.oreoArr =  ['O', 'R', '-', 'R', 'O', 'O', 'O', '-', 'R', 'O', 'R', 'O', '-', 'R', 'O', 'O', '-']
+
+
+next, copy result and paste it to Console of Explorer.
+finally click Generate and this site will return a picture like this:
+
+Also you can do any thing you want, enjoy.
+
+------------
+
+If you want translate words, input:\
+python3 jsoreo.py nyanya\
+The Terminal will return:\
+app.oreoArr =  ['R', 'O', '-', 'R', 'O', 'R', 'R', '-', 'O', 'R', '-', 'R', 'O', '-', 'R', 'O', 'R', 'R', '-', 'O', 'R', '-']
+
+Or translate sentence, input:\
+python3 jsoreo.py "Author by firedom"\
+The Terminal will return:\
+app.oreoArr =  ['O', 'R', '-', 'O', 'O', 'R', '-', 'R', '-', 'O', 'O', 'O', 'O', '-', 'R', 'R', 'R', '-', 'O', 'R', 'O', '-', 'R', 'O', 'O', 'O', '-', 'R', 'O', 'R', 'R', '-', 'O', 'O', 'R', 'O', '-', 'O', 'O', '-', 'O', 'R', 'O', '-', 'O', '-', 'R', 'O', 'O', '-', 'R', 'R', 'R', '-', 'R', 'R', '-']
 
 
 
@@ -71,3 +101,5 @@ The Terminal will return:
 [1]https://www.v2ex.com/t/525308
 
 [2]https://www.v2ex.com/t/525308#reply7
+
+[3]https://ddiu.site/oreooo/
