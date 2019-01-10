@@ -82,7 +82,7 @@ next, copy result and paste it to Console of Explorer.
 
 finally click Generate and this site will return a picture like this:
 
-!(Ore-reooo-reoreo-reoo.png)
+![](Ore-reooo-reoreo-reoo.png)
 
 Also you can do any thing you want, enjoy.
 
